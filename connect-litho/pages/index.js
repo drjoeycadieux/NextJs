@@ -18,9 +18,11 @@ export default function Home() {
            </h3>
         </div>
         <div className={styles.subheader}>
+        <Image src="/hello3.svg" alt="TeamLitho Logo" width={304} height={236} />
            <h3>
-             Coming Soon!
+             TeamLitho | Connect
            </h3>
+           <p>Coming Soon!</p>
         </div>
       </main>
 
